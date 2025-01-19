@@ -6,3 +6,4 @@ Product: The type of product being tracked (e.g., Rice).
 Price: The price of the product in monetary units.
 Date: The date when the product's price was recorded.
 The data seems to track the prices of products over time across multiple stores. It could be useful for analyzing price trends, comparing costs between stores, or examining seasonal price fluctuations.
+[Apocolypse Food Prep.xlsx](https://github.com/user-attachments/files/18467886/Apocolypse.Food.Prep.xlsx)
